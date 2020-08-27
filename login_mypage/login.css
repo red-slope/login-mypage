@@ -1,0 +1,92 @@
+body {
+ margin: auto;
+ background-color: #f8f8f8;
+}
+
+header {
+ width: 100%;
+ height: 80px;
+ background-color: white;
+ box-shadow: 2px 2px 4px lightgray;
+ text-align: center;
+}
+
+header img {
+ margin-top: 15px;
+ height: 50px;
+ padding-left: 40px;
+}
+
+.login {
+ float: right;
+ margin-top: 50px;
+ margin-right: 20px;
+ font-size: 14px;
+}
+
+form {
+ margin: 0 auto;
+ border: 2px solid lightgray;
+ width: 430px;
+ background-color: white;
+ border-radius: 10px;
+ margin-top: 40px;
+ margin-bottom: 40px;
+ box-shadow: 4px 4px 4px lightgray;
+}
+
+.formbox {
+ border: 1px solid #dfdfdf;
+ padding: 5px;
+ color: #999;
+ background-color: #fff;
+ margin-left: 50px;
+}
+
+.form_contents {
+ margin: 50px 25px 20px 25px;
+}
+
+.error_message {
+ color: red;
+ background-color: lightpink;
+}
+
+.mail {
+ margin-bottom: 20px;
+}
+
+.password {
+ margin-top: 20px;
+}
+
+label {
+ margin-left: 50px;
+ font-size: 13px;
+}
+
+.submit_button {
+ border: 1px solid lightgray;
+ padding: 6px 60px 4px 60px;
+ color: white;
+ background-color: #31A263;
+ border-radius: 5px;
+ border-bottom: 2px solid gray;
+ width: 200px;
+ margin-left: 105px;
+ margin-top: 20px;
+ margin-bottom: 20px;
+}
+
+footer {
+ display: inline-block;
+ width: 100%;
+ height: 40px;
+ background-color: white;
+ color: gray;
+ text-align: center;
+ line-height: 40px;
+ font-size: 13px;
+ border-top: 2px solid lightgray;
+ margin-bottom: 160px;
+}
